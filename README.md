@@ -7,7 +7,7 @@ telecom sectors across backend (`.NET` / `Node.js`), frontend (`React`), system 
 automation (`SDET`), shipping to **Azure** and **AWS**. I work async, document decisions in writing,
 and care about software that stays reliable as it grows.
 
-**.NET 10 (C#) · Node.js 22 · React · TypeScript · SQL Server · PostgreSQL 17 · Docker · Playwright · k6 · Terraform / Bicep · GitHub Actions (OIDC) · Azure · AWS**
+**.NET (C#) · Node.js · React · TypeScript · SQL Server · PostgreSQL · Docker · Playwright · k6 · Terraform / Bicep · GitHub Actions (OIDC) · Azure · AWS**
 
 ---
 
@@ -18,12 +18,12 @@ public / sample data.
 
 | Project | What it shows | Stack |
 |---------|---------------|-------|
-| [inventory-manager](https://github.com/peemphetpimolzzz/inventory-manager) | Fullstack inventory app — CRUD, stock ledger, low-stock dashboard, end-to-end tested | .NET 10 · EF Core · SQL Server · React · Playwright · Azure |
-| [auth-api](https://github.com/peemphetpimolzzz/auth-api) | JWT auth with refresh-token rotation + role-based access, Swagger | .NET 10 · EF Core · PostgreSQL · JWT · AWS |
-| [appointment-booking](https://github.com/peemphetpimolzzz/appointment-booking) | Booking system — double-booking prevented at both the database and application layer | Node 22 · Express · Prisma · PostgreSQL 17 · React · AWS |
-| [sqlserver-data-dictionary](https://github.com/peemphetpimolzzz/sqlserver-data-dictionary) | Generates a polished Excel data dictionary from any SQL Server database | Node 22 · TypeScript · exceljs · Azure |
-| [thai-document-generator](https://github.com/peemphetpimolzzz/thai-document-generator) | Pixel-perfect Thai-language PDF invoices & reports | Node 22 · Puppeteer · Express · Azure |
-| [test-automation-showcase](https://github.com/peemphetpimolzzz/test-automation-showcase) | A full test pyramid — unit · API · contract · E2E · load (k6) | Node 22 · vitest · supertest · Playwright · k6 · AWS |
+| [inventory-manager](https://github.com/peemphetpimolzzz/inventory-manager) | Fullstack inventory app — CRUD, stock ledger, low-stock dashboard, end-to-end tested | .NET · EF Core · SQL Server · React · Playwright · Azure |
+| [auth-api](https://github.com/peemphetpimolzzz/auth-api) | JWT auth with refresh-token rotation + role-based access, Swagger | .NET · EF Core · PostgreSQL · JWT · AWS |
+| [appointment-booking](https://github.com/peemphetpimolzzz/appointment-booking) | Booking system — double-booking prevented at both the database and application layer | Node.js · Express · Prisma · PostgreSQL · React · AWS |
+| [sqlserver-data-dictionary](https://github.com/peemphetpimolzzz/sqlserver-data-dictionary) | Generates a polished Excel data dictionary from any SQL Server database | Node.js · TypeScript · exceljs · Azure |
+| [thai-document-generator](https://github.com/peemphetpimolzzz/thai-document-generator) | Pixel-perfect Thai-language PDF invoices & reports | Node.js · Puppeteer · Express · Azure |
+| [test-automation-showcase](https://github.com/peemphetpimolzzz/test-automation-showcase) | A full test pyramid — unit · API · contract · E2E · load (k6) | Node.js · vitest · supertest · Playwright · k6 · AWS |
 
 ---
 
