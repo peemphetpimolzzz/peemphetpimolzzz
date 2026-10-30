@@ -1,53 +1,47 @@
-# Hi, I'm Peem 👋
+# Peem Phetpimol — Turnkey Business Systems & Enterprise Engineering
 
-**Fullstack & Cloud Engineer · Test Automation — shipping software with automated tests, cloud IaC, and a single `docker compose up` so it runs the same everywhere.**
+**Fullstack & Cloud Engineer · Test Automation (SDET) — building Minimal + Modern commercial web systems, automated E2E quality gates, and one-command `docker compose up` cloud infrastructure.**
 
-For 4+ years I've built, tested, and deployed software for large enterprises in the energy and
-telecom sectors across backend (`.NET` / `Node.js`), frontend (`React`), system analysis, and test
-automation (`SDET`), shipping to **Azure** and **AWS**. I work async, document decisions in writing,
-and care about software that stays reliable as it grows.
+I design, test, and deploy software for SMEs and large enterprises across backend (`.NET` / `Node.js`), frontend (`React` / `TypeScript`), system analysis, and automated testing (`Playwright` / `k6`), shipping to **Microsoft Azure** and **AWS**. Every system below is available as a **ready-to-customize turnkey solution** with 100% source code handover, or as proof of engineering quality for custom builds.
 
-**.NET (C#) · Node.js · React · TypeScript · SQL Server · PostgreSQL · Docker · Playwright · k6 · Terraform / Bicep · GitHub Actions (OIDC) · Azure · AWS**
+**.NET (C#) · Node.js · React · TypeScript · SQL Server · PostgreSQL · Docker · Playwright E2E · k6 · Terraform & Bicep · GitHub Actions (OIDC) · Azure · AWS**
 
 ---
 
-## 🚀 Portfolio
+## 🚀 Commercial Systems & Engineering Showcases
 
-Every project runs with a single `docker compose up`, ships with automated tests, and uses only
-public / sample data.
+Every repository runs locally with a single `docker compose up`, ships with an automated test suite, and features a **Minimal + Modern** UI with bilingual **TH / EN** support.
 
-| Project | What it shows | Stack |
+| System | Commercial Capability & Engineering Proof | Stack & Tags |
 |---------|---------------|-------|
-| [inventory-manager](https://github.com/peemphetpimolzzz/inventory-manager) | Fullstack inventory app — CRUD, stock ledger, low-stock dashboard, end-to-end tested | .NET · EF Core · SQL Server · React · Playwright · Azure |
-| [auth-api](https://github.com/peemphetpimolzzz/auth-api) | JWT auth with refresh-token rotation + role-based access, Swagger | .NET · EF Core · PostgreSQL · JWT · AWS |
-| [appointment-booking](https://github.com/peemphetpimolzzz/appointment-booking) | Booking system — double-booking prevented at both the database and application layer | Node.js · Express · Prisma · PostgreSQL · React · AWS |
-| [sqlserver-data-dictionary](https://github.com/peemphetpimolzzz/sqlserver-data-dictionary) | Generates a polished Excel data dictionary from any SQL Server database | Node.js · TypeScript · exceljs · Azure |
-| [thai-document-generator](https://github.com/peemphetpimolzzz/thai-document-generator) | Pixel-perfect Thai-language PDF invoices & reports | Node.js · Puppeteer · Express · Azure |
-| [test-automation-showcase](https://github.com/peemphetpimolzzz/test-automation-showcase) | A full test pyramid — unit · API · contract · E2E · load (k6) | Node.js · vitest · supertest · Playwright · k6 · AWS |
+| [**StockFlow** (`inventory-manager`)](https://github.com/peemphetpimolzzz/inventory-manager) | **Multi-Warehouse Inventory & Stock Ledger ERP** — SKU catalog, stock-in/out audit trail, low-stock alerts, CSV export, bilingual TH/EN & dark mode | `Inventory ERP` · `.NET` · `React` · `SQL Server` · `Playwright E2E` · `Azure` |
+| [**SlotWise** (`appointment-booking`)](https://github.com/peemphetpimolzzz/appointment-booking) | **Zero Double-Booking Scheduling Engine** — 2-layer conflict protection (PostgreSQL unique index + transaction lock), specialist filter & instant booking drawer | `Booking System` · `Node.js` · `React` · `TypeScript` · `PostgreSQL` · `AWS` |
+| [**BillCraft TH** (`thai-document-generator`)](https://github.com/peemphetpimolzzz/thai-document-generator) | **Interactive Thai E-Tax, Quotation, Invoice & Receipt PDF Studio** — live split-pane A4 paper preview, automatic 7% VAT & BahtText, PromptPay QR & Sarabun PDF export | `Thai Invoice & PDF` · `Node.js` · `TypeScript` · `Puppeteer` · `Azure` |
+| [**ShieldAuth** (`auth-api`)](https://github.com/peemphetpimolzzz/auth-api) | **Enterprise JWT Identity, RBAC Permission Matrix & Security Console** — interactive refresh-token rotation sandbox, role matrix, audit log & OpenAPI/Swagger | `RBAC & SSO Auth` · `.NET` · `PostgreSQL` · `JWT Security` · `AWS` |
+| [**SchemaLens** (`sqlserver-data-dictionary`)](https://github.com/peemphetpimolzzz/sqlserver-data-dictionary) | **Interactive SQL Server Schema Explorer & Executive Excel/HTML Data Dictionary** — instant column/type search, PK/FK badges & 1-click audit documentation | `Data Governance` · `SQL Server` · `TypeScript` · `Excel & HTML Export` · `Azure` |
+| [**PulseBoard** (`test-automation-showcase`)](https://github.com/peemphetpimolzzz/test-automation-showcase) | **Sprint Task Workspace & 5-Layer CI Release Quality Gate** — Unit, REST API, OpenAPI Contract, Playwright E2E, and k6 load testing wired into CI | `CI Quality Gate` · `Playwright E2E` · `k6 Load Testing` · `Contract Testing` · `AWS` |
 
 ---
 
-## 🛠️ How I Work (Freelance & Contract)
+## 🛠️ Engagement Models (Turnkey Systems & Custom Freelance)
 
-1. **Scope & written architecture** — Clear milestones, data models, and API contracts agreed in writing before implementation.
-2. **Runnable with one command** — Every deliverable runs via `docker compose up` with seeded sample data.
-3. **Automated test pyramid in CI** — Unit, integration, contract, and Playwright E2E tests wired into GitHub Actions.
-4. **Cloud IaC & clean handover** — Terraform / Bicep modules, secretless OIDC CI/CD pipelines, and a clear operations runbook.
+1. **Turnkey System Customization** — License and adapt any of the 6 systems above (`StockFlow`, `SlotWise`, `BillCraft TH`, `ShieldAuth`, `SchemaLens`, `PulseBoard`) to your brand, domain, and workflow with 100% source code ownership and zero recurring lock-in.
+2. **Custom Fullstack & Cloud Development** — End-to-end web platforms, internal ERP/backoffice portals, and secure REST APIs built with `.NET`, `Node.js`, `React`, `SQL Server`, or `PostgreSQL`.
+3. **Thai Document & Database Automation** — Pixel-perfect Thai PDF invoice/receipt engines and automated SQL Server / PostgreSQL data dictionary & reporting pipelines.
+4. **Automated Quality Gates & Cloud IaC** — Playwright E2E, contract testing, k6 load testing, and secretless OIDC deployments to Azure and AWS via Terraform / Bicep.
 
 ---
 
-## 🇹🇭 เกี่ยวกับผม
+## 🇹🇭 บริการรับพัฒนาซอฟต์แวร์และระบบสำเร็จรูปพร้อมติดตั้ง
 
-**วิศวกรซอฟต์แวร์ Fullstack, Cloud & Test Automation** ที่ส่งงานพร้อม **automated test** และ deploy ด้วย **Docker** และขึ้น cloud (**Azure / AWS**) ได้จริง —
-ประสบการณ์ 4+ ปีในองค์กรขนาดใหญ่ (กลุ่มพลังงาน/โทรคมนาคม) ครบทั้งสาย Developer (`.NET` / `Node.js` / `React`), System Analyst และ
-Test Automation Engineer (SDET) รับงาน freelance ทั้งในไทยและต่างประเทศ เน้นงานคุณภาพระดับองค์กร ส่งมอบพร้อมเทสต์ โค้ด Infrastructure-as-Code และเอกสารคู่มือชัดเจน
+**วิศวกรซอฟต์แวร์ Fullstack, Cloud & Test Automation** ประสบการณ์ 4+ ปีในองค์กรขนาดใหญ่ (กลุ่มพลังงานและโทรคมนาคม) ให้บริการทั้ง:
+- **ระบบธุรกิจสำเร็จรูปพร้อมปรับแต่ง (Turnkey Business Systems):** ระบบคลังสินค้าและตัดสต็อก (`StockFlow`), ระบบจองคิวและนัดหมาย (`SlotWise`), ระบบออกใบเสนอราคา/ใบแจ้งหนี้/ใบเสร็จ PDF ภาษาไทย (`BillCraft TH`), ระบบจัดการสิทธิ์และความปลอดภัย (`ShieldAuth`), และระบบสร้างเอกสารโครงสร้างฐานข้อมูลอัตโนมัติ (`SchemaLens`)
+- **รับพัฒนาซอฟต์แวร์ตามความต้องการ (Custom Software & SDET):** พัฒนาเว็บแอปพลิเคชันด้วย `.NET`, `Node.js`, `React`, `SQL Server`, `PostgreSQL` พร้อมวางระบบเทสต์อัตโนมัติ (`Playwright E2E` / `k6`) และติดตั้งขึ้น `Docker` / `Azure` / `AWS` ส่งมอบซอร์สโค้ดและเอกสารครบชุด
 
-## 📫 Contact
+## 📫 Contact & Storefront
 
-- Portfolio: [peemphetpimolzzz.github.io](https://peemphetpimolzzz.github.io)
-- Email: [peem.phetpimol@gmail.com](mailto:peem.phetpimol@gmail.com)
-- LINE Official Account: [@384uhsye](https://lin.ee/y54iiLR)
-- LinkedIn: [Peem Phetpimol](https://www.linkedin.com/in/peem-phetpimol-a9267b447/)
-- Fastwork: [fastwork.co/user/peemphetpimol](https://fastwork.co/user/peemphetpimol)
-- GitHub: [@peemphetpimolzzz](https://github.com/peemphetpimolzzz)
-
+- **Storefront & Live Portfolio:** [peemphetpimolzzz.github.io](https://peemphetpimolzzz.github.io)
+- **LINE Official Account:** [@384uhsye](https://lin.ee/y54iiLR)
+- **Fastwork:** [fastwork.co/user/peemphetpimol](https://fastwork.co/user/peemphetpimol)
+- **Email:** [peem.phetpimol@gmail.com](mailto:peem.phetpimol@gmail.com)
+- **LinkedIn:** [Peem Phetpimol](https://www.linkedin.com/in/peem-phetpimol-a9267b447/)
